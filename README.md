@@ -42,7 +42,7 @@ This helps in identifying potential future leaders in the tech space.
 
 | Dashboard: Airbnb Data Analysis 
 |----------------------------------|
-| ![Dashboard 1]()
+| ![Dashboard 1](Screenshot(123).png)
 
 ## ✅ Key Takeaways
 
