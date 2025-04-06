@@ -38,12 +38,6 @@ Time-series forecasting is applied to project trends for:
 
 This helps in identifying potential future leaders in the tech space.
 
-## 📷 Sample Dashboard Snapshots
-
-| Dashboard: Airbnb Data Analysis 
-|----------------------------------|
-| ![Dashboard 1](Screenshot(123).png)
-
 ## ✅ Key Takeaways
 
 - Tableau provides strong capabilities for business-level storytelling through visuals.
