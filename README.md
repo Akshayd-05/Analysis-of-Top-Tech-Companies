@@ -44,9 +44,3 @@ This helps in identifying potential future leaders in the tech space.
 - Forecasting in Tableau gives a quick look at future trends using historical data patterns.
 - Python is excellent for preprocessing and EDA, ensuring high-quality input for Tableau.
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Akshayd-05/Analysis-of-Top-Tech-Companies.git
-   cd Analysis-of-Top-Tech-Companies
