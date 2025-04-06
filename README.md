@@ -40,9 +40,9 @@ This helps in identifying potential future leaders in the tech space.
 
 ## 📷 Sample Dashboard Snapshots
 
-Add snapshots of your Tableau dashboard in the `/images` folder and embed them here:
-
-![Dashboard Preview](images/dashboard-snapshot.png)
+| Dashboard: Airbnb Data Analysis 
+|----------------------------------|
+| ![Dashboard 1]()
 
 ## ✅ Key Takeaways
 
